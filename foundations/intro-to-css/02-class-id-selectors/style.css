@@ -1,1 +1,19 @@
 /* Add CSS Styling */
+.number{
+    background-color: rgb(232, 133, 133);
+    font-family: Verdana, sans-serif;
+}
+
+.font-size{
+    font-size: 24px;
+}
+
+#n2 {
+    color: blue;
+    font-size: 36px;
+}
+
+#n4 {
+    background-color: rgb(126, 255, 116);
+    font-weight: bold;
+}
